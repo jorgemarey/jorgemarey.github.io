@@ -1,4 +1,4 @@
 jorgemarey.github.io
 ====================
 
-Personal webpage
+Personal website
